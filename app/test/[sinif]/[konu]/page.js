@@ -1,0 +1,4 @@
+import Link from 'next/link';
+import { getClassData } from '../../../../data/testler';
+
+export default function TopicPage({ params }) { const data = getClassData(params.sinif); const topic = data.topics.find(t => t.slug === params.konu); if (!topic) return <main className="page"><h1>Konu bulunamadı</h1><Link href={`/test/${params.sinif}`}>Geri dön</Link></main>; const levels = [{slug:'kolay',name:'Kolay',icon:'🌱'},{slug:'orta',name:'Orta',icon:'📘'},{slug:'zor',name:'Zor',icon:'🔥'},{slug:'cok-zor',name:'Çok Zor',icon:'🧠'}]; return <main className="page"><Link className="back" href={`/test/${params.sinif}`}>← Konulara dön</Link><p className="eyebrow">{data.title}</p><h1>{topic.name}</h1><p>Zorluk seviyesini seçin.</p><div className="cards">{levels.map(level => <Link className="card level" key={level.slug} href={`/test/${params.sinif}/${params.konu}/${level.slug}`}><span>{level.icon}</span><h2>{level.name}</h2><p>Teste başla →</p></Link>)}</div></main> }
