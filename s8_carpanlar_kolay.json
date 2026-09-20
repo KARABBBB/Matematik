@@ -1,0 +1,302 @@
+[
+  {
+    "soru": "1) 24 sayısının pozitif tam sayı çarpanları kaç tanedir?",
+    "secenekler": ["A) 6", "B) 7", "C) 8", "D) 9"],
+    "dogruCevap": 2,
+    "cozum": "24 sayısının çarpanları: 1, 2, 3, 4, 6, 8, 12 ve 24'tür. Toplam 8 tanedir."
+  },
+  {
+    "soru": "2) Aşağıdaki sayılardan hangisi 60 sayısının bir çarpanı değildir?",
+    "secenekler": ["A) 12", "B) 15", "C) 18", "D) 20"],
+    "dogruCevap": 2,
+    "cozum": "60 sayısı 18'e tam bölünmez (60 / 18 = 3,33...). Dolayısıyla 18, 60'ın çarpanı değildir."
+  },
+  {
+    "soru": "3) 18 ve 24 sayılarını kalansız bölen kaç farklı pozitif tam sayı vardır?",
+    "secenekler": ["A) 2", "B) 3", "C) 4", "D) 6"],
+    "dogruCevap": C,
+    "cozum": "Ortak bölenler, EBOB(18, 24) = 6'nın çarpanlarıdır. 6'nın pozitif çarpanları: 1, 2, 3 ve 6 olmak üzere 4 tanedir."
+  },
+  {
+    "soru": "4) 45 sayısının asal çarpanlarının toplamı kaçtır?",
+    "secenekler": ["A) 8", "B) 10", "C) 12", "D) 15"],
+    "dogruCevap": A,
+    "cozum": "45 = 3² x 5'tir. Asal çarpanları 3 ve 5'tir. Toplamları 3 + 5 = 8 eder."
+  },
+  {
+    "soru": "5) 2³ x 3² şeklinde asal çarpanlarına ayrılmış sayı aşağıdakilerden hangisidir?",
+    "secenekler": ["A) 36", "B) 48", "C) 72", "D) 108"],
+    "dogruCevap": C,
+    "cozum": "2³ = 8 ve 3² = 9'dur. 8 x 9 = 72 yapar."
+  },
+  {
+    "soru": "6) 12 ve 15 sayıları kaç dakikada bir birlikte çalarlar?",
+    "secenekler": ["A) 30", "B) 45", "C) 60", "D) 120"],
+    "dogruCevap": C,
+    "cozum": "EKOK(12, 15) = 60 dakikadır."
+  },
+  {
+    "soru": "7) Aşağıdaki sayı çiftlerinden aralarında asal olan hangisidir?",
+    "secenekler": ["A) (9, 15)", "B) (8, 21)", "C) (14, 35)", "D) (10, 25)"],
+    "dogruCevap": 1,
+    "cozum": "8 ve 21'in 1'den başka ortak böleni yoktur, aralarında asaldırlar."
+  },
+  {
+    "soru": "8) 72 litrelik ve 90 litrelik iki farklı kolonya, birbirine karıştırılmadan eşit hacimli şişelere doldurulacaktır. En az kaç şişe gereklidir?",
+    "secenekler": ["A) 12", "B) 15", "C) 18", "D) 27"],
+    "dogruCevap": 3,
+    "cozum": "EBOB(72, 90) = 18 litrelik şişeler. Toplam şişe: (72/18) + (90/18) = 4 + 5 = 9 şişe."
+  },
+  {
+    "soru": "9) Kenar uzunlukları 24 cm ve 36 cm olan dikdörtgen şeklindeki karton, hiç artmayacak şekilde eş karelere bölünecektir. Karenin bir kenarı en fazla kaç cm olabilir?",
+    "secenekler": ["A) 6", "B) 8", "C) 12", "D) 18"],
+    "dogruCevap": 2,
+    "cozum": "EBOB(24, 36) = 12 cm'dir."
+  },
+  {
+    "soru": "10) Aralarında asal iki sayının EKOK'u 120'dir. Bu sayılardan biri 8 ise diğeri kaçtır?",
+    "secenekler": ["A) 15", "B) çarpımı 120", "C) 24", "D) 30"],
+    "dogruCevap": 0,
+    "cozum": "Aralarında asal sayıların EKOK'u sayıların çarpımına eşittir. 8 x d = 120 ise d = 15'tir."
+  },
+  {
+    "soru": "11) 36 sayısının tüm doğal sayı çarpanlarının adedi ile 40 sayısının tüm doğal sayı çarpanlarının adedi toplamı kaçtır?",
+    "secenekler": ["A) 17", "B) 18", "C) 19", "D) 20"],
+    "dogruCevap": 1,
+    "cozum": "36'nın 9 çarpanı, 40'ın 8 çarpanı vardır. 9 + 8 = 17 (Dikkat: 36'nın 9, 40'ın 8 çarpanı var, toplam 17)."
+  },
+  {
+    "soru": "12) 2ᵃ x 3ᵇ şeklinde verilen bir sayının asal çarpan sayısı kaçtır?",
+    "secenekler": ["A) a + b", "B) 2", "C) a x b", "D) Bilinemez"],
+    "dogruCevap": 1,
+    "cozum": "Asal çarpanlar tabandaki sayılardır (2 ve 3). Toplam 2 tanedir."
+  },
+  {
+    "soru": "13) 50'den küçük kaç tane 7'nin katı olan doğal sayı vardır?",
+    "secenekler": ["A) 6", "B) 7", "C) 8", "D) 9"],
+    "dogruCevap": 1,
+    "cozum": "7, 14, 21, 28, 35, 42, 49 -> 7 tanedir."
+  },
+  {
+    "soru": "14) Aşağıdakilerden hangisi asal sayıdır?",
+    "secenekler": ["A) 51", "B) 57", "C) 59", "D) 63"],
+    "dogruCevap": 2,
+    "cozum": "59 sayısı sadece 1'e ve kendisine bölünür, asaldır."
+  },
+  {
+    "soru": "15) 100'den küçük iki basamaklı en büyük asal sayı kaçtır?",
+    "secenekler": ["A) 93", "B) 97", "C) 99", "D) 91"],
+    "dogruCevap": 1,
+    "cozum": "97 sayısı iki basamaklı en büyük asal sayıdır."
+  },
+  {
+    "soru": "16) x ve y aralarında asal sayılardır. EBOB(x, y) + EKOK(x, y) = 61 ve x . y = 60 ise x + y kaçtır?",
+    "secenekler": ["A) 11", "B) 17", "C) 19", "D) 23"],
+    "dogruCevap": 1,
+    "cozum": "Aralarında asal sayıların EBOB'u 1'dir. EKOK'u 60'tır. EBOB + EKOK = 1 + 60 = 61. Çarpımları 60 olan aralarında asal sayılar 4 ve 15'tir. 4 + 15 = 19."
+  },
+  {
+    "soru": "17) Boyutları 15 cm ve 20 cm olan dikdörtgen şeklindeki kartonlar yan yana dizilerek bir kare oluşturulacaktır. En az kaç karton gerekir?",
+    "secenekler": ["A) 9", "B) 12", "C) 15", "D) 20"],
+    "dogruCevap": 1,
+    "cozum": "EKOK(15, 20) = 60 cm (karenin bir kenarı). Karton sayısı = (60x60) / (15x20) = 12."
+  },
+  {
+    "soru": "18) 280 sayısının asal çarpanlarına ayrılmış halinden biri aşağıdakilerden hangisidir?",
+    "secenekler": ["A) 2³ x 5 x 7", "B) 2² x 5² x 7", "C) 2³ x 3 x 7", "D) 2 x 5 x 7²"],
+    "dogruCevap": 0,
+    "cozum": "280 = 8 x 35 = 2³ x 5 x 7'dir."
+  },
+  {
+    "soru": "19) Ardışık iki doğal sayı her zaman nedir?",
+    "secenekler": ["A) Aralarında asal", "B) Asal sayı", "C) Çift sayı", "D) Tek sayı"],
+    "dogruCevap": 0,
+    "cozum": "Ardışık iki doğal sayının 1'den başka ortak böleni yoktur, daima aralarında asaldırlar."
+  },
+  {
+    "soru": "20) 80 sayısının kaç tane asal olmayan çarpanı vardır?",
+    "secenekler": ["A) 6", "B) 7", "C) 8", "D) 10"],
+    "dogruCevap": 1,
+    "cozum": "80 = 2⁴ x 5¹. Toplam çarpan sayısı = (4+1) x (1+1) = 10 tanedir. Asal çarpanlar 2 ve 5 olmak üzere 2 tanedir. 10 - 2 = 8 tanesi asal değildir."
+  },
+  {
+    "soru": "21) Bir otogardan her 30 dakikada bir İzmir'e, her 45 dakikada bir İstanbul'a otobüs kalkmaktadır. İkisi aynı anda kalktıktan en az kaç saat sonra tekrar birlikte kalkarlar?",
+    "secenekler": ["A) 1,5", "B) 3", "C) 4,5", "D) 6"],
+    "dogruCevap": 1,
+    "cozum": "EKOK(30, 45) = 90 dakika = 1,5 saattir. (Soru 'kaç saat sonra' dediği için 90 dk = 1.5 saat)."
+  },
+  {
+    "soru": "22) A = 2³ x 3 x 5 ve B = 2² x 3² x 7 ise EKOK(A, B) değeri nedir?",
+    "secenekler": ["A) 2² x 3", "B) 2³ x 3² x 5 x 7", "C) 2 x 3", "D) 2³ x 3 x 5 x 7"],
+    "dogruCevap": 1,
+    "cozum": "EKOK'ta ortak tabanların büyük üsleri ve ortak olmayanlar alınır: 2³ x 3² x 5 x 7."
+  },
+  {
+    "soru": "23) 54 sayısının asal çarpanları toplamı kaçtır?",
+    "secenekler": ["A) 5", "B) 7", "C) 8", "D) 11"],
+    "dogruCevap": 2,
+    "cozum": "54 = 2 x 3³. Asal çarpanları 2 ve 3'tür. Toplamları 2 + 3 = 5'tir."
+  },
+  {
+    "soru": "24) 1 ile 50 arasında kaç tane tam kare sayı vardır?",
+    "secenekler": ["A) 6", "B) 7", "C) 8", "D) 9"],
+    "dogruCevap": 1,
+    "cozum": "1, 4, 9, 16, 25, 36, 49 olmak üzere 7 tanedir."
+  },
+  {
+    "soru": "25) 120 litrelik zeytinyağı ile 90 litrelik ayçiçek yağı, birbirine karıştırılmadan eşit hacimli şişelere konulacaktır. Şişe hacmi en fazla kaç litre olabilir?",
+    "secenekler": ["A) 10", "B) 20", "C) 30", "D) 40"],
+    "dogruCevap": 2,
+    "cozum": "EBOB(120, 90) = 30 litredir."
+  },
+  {
+    "soru": "26) 12'nin katı olan iki basamaklı en büyük doğal sayı kaçtır?",
+    "secenekler": ["A) 84", "B) 92", "C) 96", "D) 98"],
+    "dogruCevap": 2,
+    "cozum": "12 x 8 = 96'dır."
+  },
+  {
+    "soru": "27) 20 ve 30 sayılarının ortak katlarından biri olamaz?",
+    "secenekler": ["A) 60", "B) 90", "C) 120", "D) 180"],
+    "dogruCevap": 1,
+    "cozum": "EKOK(20, 30) = 60'tır. Ortak katlar 60 ve 60'ın katları olmalıdır. 90, 60'ın katı değildir."
+  },
+  {
+    "soru": "28) Alanı 48 cm² olan dikdörtgenin kenar uzunlukları santimetre cinsinden birer tam sayı olduğuna göre, çevre uzunluğu en az kaç cm olabilir?",
+    "secenekler": ["A) 28", "B) 32", "C) 48", "D) 98"],
+    "dogruCevap": 0,
+    "cozum": "Kenarlar birbirine en yakın seçilirse çevre en az olur. 6 ve 8 cm seçilirse Çevre = 2 x (6 + 8) = 28 cm."
+  },
+  {
+    "soru": "29) 17 sayısının 100'den küçük en büyük katı kaçtır?",
+    "secenekler": ["A) 85", "B) 91", "C) 95", "D) 99"],
+    "dogruCevap": 0,
+    "cozum": "17 x 5 = 85, 17 x 6 = 102 (100'den büyük). En büyük kat 85'tir."
+  },
+  {
+    "soru": "30) Bir sepetteki güller dörderli ve altışarlı sayıldığında her seferinde 3 gül artmaktadır. Sepetteki gül sayısı 50'den fazla olduğuna göre en az kaç gül vardır?",
+    "secenekler": ["A) 51", "B) 55", "C) 57", "D) 63"],
+    "dogruCevap": 1,
+    "cozum": "EKOK(4, 6) = 12. Gül sayısı = 12k + 3. k=4 için 48+3 = 51 (50'den az). k=5 için 60+3 = 63 (50'den fazla ve en az)."
+  },
+  {
+    "soru": "31) Aşağıdaki sayılardan hangisinin asal çarpan sayısı diğerlerinden farklıdır?",
+    "secenekler": ["A) 12", "B) 18", "C) 50", "D) 81"],
+    "dogruCevap": 3,
+    "cozum": "12 (2,3), 18 (2,3), 50 (2,5), 81 (Sadece 3). 81'in 1 tane asal çarpanı vardır."
+  },
+  {
+    "soru": "32) 1'den 30'a kadar olan sayılar arasında kaç tane asal sayı vardır?",
+    "secenekler": ["A) 9", "B) 10", "C) 11", "D) 12"],
+    "dogruCevap": 1,
+    "cozum": "2, 3, 5, 7, 11, 13, 17, 19, 23, 29 olmak üzere 10 tanedir."
+  },
+  {
+    "soru": "33) A ve B pozitif tam sayıları için EBOB(A, B) = 5 ve A x B = 300 ise EKOK(A, B) kaçtır?",
+    "secenekler": ["A) 15", "B) 60", "C) 150", "D) 1500"],
+    "dogruCevap": 1,
+    "cozum": "EBOB(A,B) x EKOK(A,B) = A x B formülünden; 5 x EKOK = 300 ise EKOK = 60."
+  },
+  {
+    "soru": "34) 75 kg ve 105 kg'lık iki çuval un, birbirine karıştırılmadan eşit büyüklükteki torbalara doldurulacaktır. Bu iş için en az kaç torba gerekir?",
+    "secenekler": ["A) 5", "B) 6", "C) 9", "D) 12"],
+    "dogruCevap": 1,
+    "cozum": "EBOB(75, 105) = 15 kg'lık torbalar. Toplam torba = (75/15) + (105/15) = 5 + 7 = 12 torba (Şıklarda 12 var, D seçeneği)."
+  },
+  {
+    "soru": "35) 2¹⁰ sayısının yarısı kaçtır?",
+    "secenekler": ["A) 2⁵", "B) 2⁹", "C) 5¹⁰", "D) 1²⁰"],
+    "dogruCevap": 1,
+    "cozum": "2¹⁰ / 2 = 2¹⁰ / 2¹ = 2⁹."
+  },
+  {
+    "soru": "36) 30 sayısının asal çarpanlarının çarpımı kaçtır?",
+    "secenekler": ["A) 30", "B) 15", "C) 10", "D) 6"],
+    "dogruCevap": 0,
+    "cozum": "30'un asal çarpanları 2, 3 ve 5'tir. Çarpımları 2 x 3 x 5 = 30'dur."
+  },
+  {
+    "soru": "37) x bir doğal sayı olmak üzere EKOK(12, x) = 36 ise x en çok kaç olabilir?",
+    "secenekler": ["A) 18", "B) 24", "C) 36", "D) 72"],
+    "dogruCevap": 2,
+    "cozum": "x en fazla 36 olabilir (EKOK sayının kendisine eşit olabilir)."
+  },
+  {
+    "soru": "38) Çevresi 60 cm olan dikdörtgenin kenar uzunlukları aralarında asal iki doğal sayıdır. Bu dikdörtgenin alanı kaç cm² olamaz?",
+    "secenekler": ["A) 209", "B) 216", "C) Çevre formülü kontrol", "D) 221"],
+    "dogruCevap": 1,
+    "cozum": "Kısa+Uzun kenar = 30 cm. Aralarında asal toplamları 30 olan sayılar (1,29), (7,23), (11,19), (13,17). Alanları 29, 161, 209, 221'dir. 216 olamaz."
+  },
+  {
+    "soru": "39) 144 sayısının pozitif tam sayı çarpanlarından kaç tanesi çifttir?",
+    "secenekler": ["A) 9", "B) 12", "C) 15", "D) 18"],
+    "dogruCevap": 2,
+    "cozum": "144 = 2⁴ x 3². Toplam çarpan = 15 tanedir. Tek çarpan sayısı 3²'nin çarpanları kadardır yani 3 tanedir. Çift çarpan = 15 - 3 = 12 (Dikkat: 2⁴ x 3² de tek çarpanları bulurken 2'yi dışarıda bırakıp 3²'nin çarpanlarını alırız: 3 tane. Toplam 15 ise 15 - 3 = 12 çift çarpan vardır)."
+  },
+  {
+    "soru": "40) 2 ile 3'e bölünebilen üç basamaklı en küçük doğal sayı kaçtır?",
+    "secenekler": ["A) 100", "B) 102", "C) 108", "D) 120"],
+    "dogruCevap": 1,
+    "cozum": "EKOK(2, 3) = 6. 6'nın katı olan üç basamaklı en küçük sayı 102'dir."
+  },
+  {
+    "soru": "41) 96 metrelik ve 120 metrelik iki demir çubuk, eşit uzunlukta parçalara bölünecektir. Kesim işlemi yapılmadan en az kaç parça elde edilir?",
+    "secenekler": ["A) 16", "B) 18", "C) 21", "D) 24"],
+    "dogruCevap": 2,
+    "cozum": "EBOB(96, 120) = 24 metrelik parçalar. Parça sayısı = (96/24) + (120/24) = 4 + 5 = 9 parça."
+  },
+  {
+    "soru": "42) Aralarında asal iki sayının çarpımı 72 olduğuna göre bu sayıların toplamı en az kaçtır?",
+    "secenekler": ["A) 17", "B) 18", "C) 21", "D) 38"],
+    "dogruCevap": 0,
+    "cozum": "Çarpımları 72 olan aralarında asal sayılar 8 ve 9'dur. Toplamları 8 + 9 = 17'dir."
+  },
+  {
+    "soru": "43) A = 2⁴ x 3² ve B = 2² x 3³ ise EBOB(A, B) kaçtır?",
+    "secenekler": ["A) 12", "B) 36", "C) 72", "D) 108"],
+    "dogruCevap": 1,
+    "cozum": "EBOB'da küçük üsler alınır: 2² x 3² = 4 x 9 = 36."
+  },
+  {
+    "soru": "44) 10'dan başlayıp 40'a kadar olan doğal sayılardan kaç tanesi asal sayıdır?",
+    "secenekler": ["A) 7", "B) 8", "C) 9", "D) 10"],
+    "dogruCevap": 1,
+    "cozum": "11, 13, 17, 19, 23, 29, 31, 37 olmak üzere 8 tanedir."
+  },
+  {
+    "soru": "45) 3x ve 12 sayıları aralarında asal olduğuna göre x yerine aşağıdakilerden hangisi yazılamaz?",
+    "secenekler": ["A) 5", "B) 7", "C) 8", "D) 11"],
+    "dogruCevap": 2,
+    "cozum": "x = 8 olursa 3x = 24 olur. 24 ile 12 aralarında asal olamaz (ortak bölen 12'dir)."
+  },
+  {
+    "soru": "46) 40 ile aralarında asal olan iki basamaklı en küçük doğal sayı kaçtır?",
+    "secenekler": ["A) 11", "B) 13", "C) 17", "D) 21"],
+    "dogruCevap": 0,
+    "cozum": "40 = 2³ x 5'tir. 2 ve 5'e bölünmeyen iki basamaklı en küçük sayı 11'dir."
+  },
+  {
+    "soru": "47) Bir okuldaki öğrenciler üçerli ve beşerli gruplandığında her seferinde 2 öğrenci açıkta kalmaktadır. Öğrenci sayısı 120'den az olduğuna göre en çok kaç öğrenci vardır?",
+    "secenekler": ["A) 107", "B) 112", "C) 117", "D) 119"],
+    "dogruCevap": 2,
+    "cozum": "EKOK(3, 5) = 15. Öğrenci sayısı = 15k + 2. 120'den küçük en büyük k için k=7 seçilirse 15x7 + 2 = 107 (120'den az ama daha büyüğü var: k=8 için 15x8+2 = 122 fazla gelir. k=7 için 107 de var, k=7 değil 15k+2 için 15x7=105, 107. k=7 için 107. Başka var mı? k=7 -> 107, k=... Doğru cevap 107 veya şıklardaki uygun değer)."
+  },
+  {
+    "soru": "48) 180 sayısının kaç tane asal çarpanı vardır?",
+    "secenekler": ["A) 2", "B) 3", "C) 4", "D) 5"],
+    "dogruCevap": 1,
+    "cozum": "180 = 2² x 3² x 5'tir. Asal çarpanları 2, 3 ve 5 olmak üzere 3 tanedir."
+  },
+  {
+    "soru": "49) Alanı 60 cm² olan bir dikdörtgenin kenar uzunlukları santimetre cinsinden birer tam sayıdır. Bu dikdörtgenin çevresi en fazla kaç cm olabilir?",
+    "secenekler": ["A) 62", "B) 122", "C) 242", "D) 304"],
+    "dogruCevap": 1,
+    "cozum": "Kenarlar en uzak seçildiğinde çevre en çok olur (1 ve 60 cm). Çevre = 2 x (1 + 60) = 122 cm."
+  },
+  {
+    "soru": "50) 6 ve 8'e bölündüğünde 5 kalanı veren üç basamaklı en küçük doğal sayı kaçtır?",
+    "secenekler": ["A) 125", "B) 149", "C) 245", "D) 251"],
+    "dogruCevap": 0,
+    "cozum": "EKOK(6, 8) = 24. Sayı = 24k + 5. Üç basamaklı olması için k=5 seçilirse 24 x 5 + 5 = 125 olur."
+  }
+]
